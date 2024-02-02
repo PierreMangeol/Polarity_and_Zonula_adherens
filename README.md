@@ -1,2 +1,4 @@
-# Polarity_and_Zonula_adherens
-Codes used in Mangeol et al. eLife 2022 and Mangeol et al. PNAS 2024. Additionally data are provided for Mangeol et al. PNAS 2024.
+# *zonula adherens matura*
+Data and codes used in "The zonula adherens matura redefines the apical junction of intestinal 
+epithelia" by Pierre Mangeol, Dominique Massey-Harroche, Michael Sebbagh, Fabrice Richard, André Le Bivic1, and Pierre-François Lenne.
+PNAS 2024.
